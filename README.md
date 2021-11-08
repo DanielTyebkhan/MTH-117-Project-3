@@ -1,5 +1,5 @@
 # MTH-117-Project-3
-Calc Project to Calculate Riemann Sums on an Image
+Calculus Project to Calculate Riemann Sums on an Image
 
 
 
